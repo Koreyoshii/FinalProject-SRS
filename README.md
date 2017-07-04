@@ -7,7 +7,3 @@
 ![image](https://github.com/Koreyoshii/FinalProject-SRS/blob/master/顺序图1.jpg)
 ## 顺序图2（查询成绩）
 ![image](https://github.com/Koreyoshii/FinalProject-SRS/blob/master/顺序图2.jpg)
-## 运行界面截图
-![image](https://github.com/Koreyoshii/FinalProject-SRS/blob/master/1.jpg)
-![image](https://github.com/Koreyoshii/FinalProject-SRS/blob/master/2.jpg)
-![image](https://github.com/Koreyoshii/FinalProject-SRS/blob/master/3.jpg)
